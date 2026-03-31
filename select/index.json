@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Impurities",
   "base_artist": "LE SSERAFIM",
-  "createdAt": "2026-03-10T08:15:53.152522Z",
+  "createdAt": "2026-03-31T14:01:18.660224Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -91,6 +91,15 @@
       "artist": "LE SSERAFIM",
       "has_synced": false,
       "path": "select/pl_01_Impurities_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/localdb_01_Impurities_LE_SSERAFIM.lrc",
+      "repo_name": "P5a4HVYZrFo"
     }
   ]
 }
